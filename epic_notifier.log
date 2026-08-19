@@ -2367,3 +2367,7 @@
 2026-08-19 07:39:10,603 - INFO - Found 1 free game(s).
 2026-08-19 07:39:10,603 - INFO - Removing expired game from tracking: Epic Mage Bundle
 2026-08-19 07:39:10,604 - INFO - Completed notification check.
+2026-08-19 17:01:59,181 - INFO - Starting Epic Games Freebie Notifier.
+2026-08-19 17:01:59,181 - INFO - Configuration validated successfully.
+2026-08-19 17:01:59,513 - INFO - Found 1 free game(s).
+2026-08-19 17:01:59,513 - INFO - Completed notification check.
