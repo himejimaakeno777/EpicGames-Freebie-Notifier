@@ -2410,3 +2410,7 @@
 2026-08-28 01:10:30,894 - INFO - Removing expired game from tracking: Cardpocalypse Standard Edition
 2026-08-28 01:10:30,894 - INFO - Removing expired game from tracking: Epic Mage Bundle
 2026-08-28 01:10:30,894 - INFO - Completed notification check.
+2026-08-28 21:58:48,997 - INFO - Starting Epic Games Freebie Notifier.
+2026-08-28 21:58:48,998 - INFO - Configuration validated successfully.
+2026-08-28 21:58:49,254 - INFO - Found 2 free game(s).
+2026-08-28 21:58:49,255 - INFO - Completed notification check.
