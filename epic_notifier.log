@@ -2779,3 +2779,7 @@
 2026-11-12 22:10:09,602 - INFO - Removing expired game from tracking: Idle Champions of the Forgotten Realms
 2026-11-12 22:10:09,602 - INFO - Removing expired game from tracking: Flotsam
 2026-11-12 22:10:09,602 - INFO - Completed notification check.
+2026-11-13 21:53:16,614 - INFO - Starting Epic Games Freebie Notifier.
+2026-11-13 21:53:16,614 - INFO - Configuration validated successfully.
+2026-11-13 21:53:16,777 - INFO - Found 1 free game(s).
+2026-11-13 21:53:16,777 - INFO - Completed notification check.
